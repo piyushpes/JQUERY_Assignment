@@ -1,0 +1,14 @@
+body{background-color: #0e2f44;}
+
+#container div{
+	border:1px solid black;
+	background-color: #191919;
+	float: left;
+}
+
+#container{overflow: auto; width: 960px; margin: 0px auto;}
+
+#createbutton{width: auto; height: 40px;margin: 10px auto;display: block;}
+.columnone {clear: left;}
+
+#container div.colordiv{background-color: #daa520;}
